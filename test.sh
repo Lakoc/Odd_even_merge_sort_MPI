@@ -1,7 +1,7 @@
 #!/bin/bash
 
 numbers=8
-processes=19
+processes=20
 
 #preklad cpp zdrojaku
 mpicc  -o oems oems.c #--prefix /usr/local/share/OpenMPI
